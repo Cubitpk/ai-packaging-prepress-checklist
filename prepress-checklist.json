@@ -1,0 +1,17 @@
+{
+  "provider": "CubitPack",
+  "url": "https://cubitpack.com/print-your-ai-design",
+  "tools": [
+    "https://cubitpack.com/tools/dieline-templates",
+    "https://cubitpack.com/tools/box-size-calculator",
+    "https://cubitpack.com/tools/dimensional-weight-calculator"
+  ],
+  "steps": [
+    "Verify internal product dimensions (L x W x D)",
+    "Generate flat structural SVG/PDF dieline with cut and crease rules",
+    "Rebuild raster AI typography and logos as vector outlines",
+    "Convert RGB colors to CMYK process or Pantone spot inks",
+    "Create separate vector masks for foil stamping, embossing, debossing, and spot UV",
+    "Approve digital proof and 3D structural mockup before production"
+  ]
+}
